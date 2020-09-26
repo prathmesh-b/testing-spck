@@ -7,3 +7,8 @@ body {
   max-height: 500px;
   width: 299px;
 }
+
+h1{
+  color: cyan;
+  background-color:black;
+}
